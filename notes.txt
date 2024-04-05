@@ -1,0 +1,6 @@
+Open Screen with "sudo screen /dev/ttyACM0"
+
+To push code to github:
+- git add *
+- git commit -m "message"
+- git push
