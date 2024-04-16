@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "binary_info.h": "c",
+        "irq.h": "c",
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}
