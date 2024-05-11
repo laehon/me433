@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "tusb.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "random": "c"
+    }
+}
